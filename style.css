@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color:  #3c4245;
+    text-align: center;
+font-size: 25px;
+font-style: italic;
+}
+.fonte{
+    font-size: 90px;
+}
+h1{
+    font-size: 70px;
+}
+
+.fonte1{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.fonte2{
+    font-family: 'Noto Serif', serif;
+}
+.fonte3{
+    font-family: 'Noto Sans Display', sans-serif;
+
+}
+.fonte4{
+    font-family: 'Cedarville Cursive', cursive;
+}
+.fonte5{
+    font-family: 'Pacifico', cursive;
+}
+
+
+p{
+border-radius: 32px ;
+border: 2px solid;
+background-color:#5f6769;
+width: 40%;
+margin-left: 30%;
+transition: 0.6s;
+}
+
+p:hover {
+    color: whitesmoke;
+}
